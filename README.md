@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @damnordinarycodes
-- 👀 I’m a 17 year old student
-- 🌱 I’m interested in games
-- 🐧 I’m currently learning python
-- 📫 Contact me via discord Abhinxv#0698
+👋 Hi, I’m @damnordinarycodes
+👀 Currently working on: Freelance Projects, Graphics Designing & Video Editing
+🌱 I’m interested in Cyber Security
+🖥️ I'm also on Linkedin https://www.linkedin.com/in/abhinav-singh-a24940280/
 
 <!---
 damnordinarycodes/damnordinarycodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
